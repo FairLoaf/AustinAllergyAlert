@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fairloaf-35999"
-  }
+    "default": "austin-allergy-alert-53b92",
+    "main": "austin-allergy-alert-53b92"
+  },
+  "targets": {},
+  "etags": {}
 }

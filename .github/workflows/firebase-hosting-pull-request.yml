@@ -12,5 +12,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FAIRLOAF_35999 }}'
-          projectId: fairloaf-35999
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_AUSTIN_ALLERGY_ALERT_53B92 }}'
+          projectId: austin-allergy-alert-53b92
